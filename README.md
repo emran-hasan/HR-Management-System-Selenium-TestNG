@@ -16,7 +16,8 @@ searching for employees using empId, empName, updating employee information, and
 - Open ``  build.gradle `` folder, all folder files are created automatically.
 - Test the project
   
- 
+ ## Test Cases: 
+ https://docs.google.com/spreadsheets/d/1FcFGLAN9SENl_efqxIhDEjzJZd_KVhEDjkfEZlFzJ18/edit?usp=sharing
 
 ### How to Generate Allure Report:
 To run the all test, execute the following command in terminal to generate the Allure report:
